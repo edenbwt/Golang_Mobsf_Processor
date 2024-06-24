@@ -1,0 +1,8 @@
+{
+  "apiKey": "de43ab9404d9ce09a8cefb21af63fea6f89f2e143d81d8eec4f9f78967a381b1",
+  "domain": "http://localhost:8000",
+  "InFolder": "input",
+  "dump": "dump",
+  "ext": [ ".apk", ".ipa", ".xapp" ],
+  "Version": "1.0.1.3 MUTLI UPLOAD"
+}
